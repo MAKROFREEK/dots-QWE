@@ -1,0 +1,10 @@
+* {
+    red:                         rgba ( 255, 71, 81, 100 % );
+    blue:                        #28bdcc;
+    lightfg:                     rgba ( 176, 206, 214, 100 % );
+    lightbg:                     rgba ( 25, 25, 127, 100 % );
+    foreground:                  #ffffff;
+    background:                  #1d1d47;
+    black:						 #000;
+    w:						 	 #fff;
+}
