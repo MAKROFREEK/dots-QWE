@@ -1,3 +1,4 @@
+![rice-contest](https://user-images.githubusercontent.com/84992148/129814262-3ee275aa-1dc2-4e0b-8c14-a5e352877cf3.png)
  **LetsHaveKiddos** | **QWE**
 ===========================
 
@@ -44,5 +45,6 @@ https://github.com/LetsHaveKiddos/installation-guide
 
 ## Screens:
 
+![image](reddit-screenshot.png)
 
 
