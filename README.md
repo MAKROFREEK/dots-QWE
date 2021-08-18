@@ -38,6 +38,9 @@ This one was super fun to make. Lots lots and lots of color. More colors than I 
 
 * Neovim
 
+## Notes
+
+QWE light is missing the fonts necessary, but QWE dark contains the missing fonts. .local/share/fonts
 
 ## INSTALLATION GUIDE
 https://github.com/LetsHaveKiddos/installation-guide
